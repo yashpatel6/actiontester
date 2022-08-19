@@ -1,0 +1,3 @@
+[submodule "external/mymodule"]
+	path = external/mymodule
+	url = git@github.com:yashpatel6/myactions.git
