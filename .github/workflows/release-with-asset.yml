@@ -10,4 +10,4 @@ jobs:
     name: A job to add a release asset with submodules
     steps:
       - id: release-asset
-        uses: yashpatel6/myactions/add-source-with-submodules@v2
+        uses: yashpatel6/myactions/add-source-with-submodules@v3
